@@ -10,5 +10,5 @@
 
 
 <div>
-  <img src='https://github-readme-stats.vercel.app/api?username=pecampelo'>
+  <img src='https://github-readme-stats.vercel.app/api?username=pecampelo&show_icons=true&theme=dracula'>
 </div>
