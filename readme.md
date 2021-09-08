@@ -8,7 +8,8 @@
 
 - My main goal is to work as a back-end developer in little time. 🎩
 
+<br>
 
 <div>
-  <img src='https://github-readme-stats.vercel.app/api?username=pecampelo&show_icons=true&theme=dracula'>
+  <img src='https://github-readme-stats.vercel.app/api?username=pecampelo&show_icons=true&theme=dracula&hide_border=true'>
 </div>
