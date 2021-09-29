@@ -4,7 +4,7 @@
 
 
 - I'm currently working on two projects as personal hobbies: [create-API](https://github.com/pecampelo/create-api) and [whatsapp-to-excel](https://github.com/pecampelo/whatsapp-to-excel) 😊
-- I'm currently studying Typescript and PostgreSQL, and [how the Internet works](https://casitadenosotros.notion.site/Internet-4c6b01c0c1ff4eeb8f154a07db57c6db).
+- I'm currently studying Typescript, Node, PostgreSQL and a course named [JStack](https://www.jstack.com.br) made by a developer named [Mateus Silva](https://www.github.com/maateussilva).
 
 - My main goal is to work as a back-end developer in little time. 🎩
 
