@@ -10,7 +10,7 @@
 
 <br>
 
-<div>
+<div display='flex' flex-direction='column'>
   <img src='https://github-readme-stats.vercel.app/api?username=pecampelo&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true'>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=pecampelo&layout=compact&theme=dracula&hide_border=true'>
 </div>
