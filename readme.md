@@ -1,16 +1,16 @@
 # Hi there! 🧐
 
 
+I'm Pedro, and I am a self-taught software developer whose main goal <br>
+is to work as a back-end developer in little time. 
+<br><br>
 
+## What I'm currently working on:
 
-- I'm currently working on a back-end project as a personal hobby: [create-API](https://github.com/pecampelo/create-api)  😊
-- I'm currently studying Typescript, Node, PostgreSQL and a course named [JStack](https://www.jstack.com.br) made by a developer named [Mateus Silva](https://www.github.com/maateusilva).
-
-- My main goal is to work as a back-end developer in little time. 🎩
-
-<br>
-
+[![My last project](https://github-readme-stats.vercel.app/api/pin/?username=pecampelo&repo=login-api&theme=dracula&hide_border=true)](https://github.com/pecampelo/login-api)
+===
+ 
 <div>
   <img src='https://github-readme-stats.vercel.app/api?username=pecampelo&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=pecampelo&layout=compact&theme=dracula&hide_border=true'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=pecampelo&layout=compact&theme=dracula&hide_border=true&langs_count=10'>
 </div>
