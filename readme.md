@@ -1,11 +1,7 @@
 # Hi there! 🧐
 
 
-I'm Pedro, and I am a self-taught software developer whose main goal <br>
-is to work as a back-end developer in little time. 
-<br><br>
-
-## What I'm currently working on:
+I'm Pedro, and I am a self-taught software developer who is currently working on:
 
 [![My last project](https://github-readme-stats.vercel.app/api/pin/?username=pecampelo&repo=login-api&theme=dracula&hide_border=true)](https://github.com/pecampelo/login-api)
 ===
