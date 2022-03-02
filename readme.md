@@ -1,14 +1,9 @@
 # Hi there! 🧐
 
 
-I'm Pedro, and I am a self-taught, detail-oriented software engineer.
+I'm Pedro, and I am a self-taught software engineer who is very much detail-oriented.
 
-Personal projects of mine that I am most passionate about are:
-
-<br>
-
-[Triforce](https://github.com/pecampelo/triforce-backend)
-
+I'm currently working on a back-end project as a personal hobby: [create-API](https://github.com/pecampelo/create-api)  😊
 <br>
 
 You can find me on:
@@ -19,12 +14,12 @@ You can find me on:
    <a href="https://www.linkedin.com/in/pecampelo/" target="_blank">
      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
    </a>
-   <a href="https://instagram.com/pecampelo" target="_blank">
+   <a href="https://instagram.com/pecmpl" target="_blank">
      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
    </a>
 </div>
 
-<br><br>
+<br>
 
 These are technologies that I have worked with:
 
