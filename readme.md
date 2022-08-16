@@ -3,7 +3,6 @@
 
 I'm Pedro, and I am a self-taught software engineer who is very much detail-oriented.
 
-I'm currently working on a back-end project as a personal hobby: [create-API](https://github.com/pecampelo/create-api)  😊
 <br>
 
 You can find me on:
