@@ -1,8 +1,7 @@
 # Hi there! 🧐
 
 
-I'm Pedro, and I am a self-taught software engineer who is very much detail-oriented.
-
+I'm Pedro, and I am a self-taught software engineer who mostly codes in JS, Elixir and Golang.
 <br>
 
 You can find me on:
