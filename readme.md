@@ -24,7 +24,7 @@ These are technologies that I have worked with:
   <img align="center" alt="Golang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-original.svg">
 </div>
 
 <hr>
@@ -52,8 +52,8 @@ These are technologies that I have worked with:
 <h3> Design </h3>
 <div style='display: flex'>
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
-  <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg">
-  <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg">
-  <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg">
+  <img align="center" alt="Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
+  <img align="center" alt="Illustrator" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg">
+  <img align="center" alt="After Effects" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg">
+  <img align="center" alt="Premiere Pro" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg">
 </div>
