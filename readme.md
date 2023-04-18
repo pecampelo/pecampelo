@@ -19,7 +19,7 @@ These are technologies that I have worked with:
 <div style='display: flex'>
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
-  <img align="center" alt="Elixir" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-plain-wordmark.svg" />
+  <img align="center" alt="Elixir" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" />
           
   <img align="center" alt="Phoenix" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original.svg">
   <img align="center" alt="Golang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
