@@ -35,6 +35,7 @@ These are technologies that I have worked with:
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="Datadog" height='30' width="40" src='https://user-images.githubusercontent.com/19526811/156367434-b7b432a6-34ab-40d8-8c5b-c858ffca85fd.svg'>
+  <img align="center" alt="Kubernetes" height='30' width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
 </div>
 
 <hr>
