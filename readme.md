@@ -1,7 +1,7 @@
 # Hi there! 🧐
 
 
-I'm Pedro, and I am a self-taught software engineer. You can find me on:
+I am a self-taught software engineer who is enthusiastic about new, effective technologies. You can find me on:
 <div style='display: flex; margin-top:50px;'>
    <a href = "mailto:pedrohcmatheus@gmail.com">
      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
